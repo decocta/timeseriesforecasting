@@ -47,9 +47,11 @@ Forecast generated for Oct–Dec 2017 for all store × item pairs.
    cd timeseriesforecasting
 
 3. Install libraries
+
    pip install -r requirements.txt
 
-4. Run the ipynb file
+5. Run the ipynb file
 
-5. Save Model
+6. Save Model
+
 models/xgb_store_item.json
