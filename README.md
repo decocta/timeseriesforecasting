@@ -42,6 +42,7 @@ Forecast generated for Oct–Dec 2017 for all store × item pairs.
 
 1. Clone repository
    git clone https://github.com/decocta/timeseriesforecasting.git
+
    cd timeseriesforecasting
 
 3. Install libraries
