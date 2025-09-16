@@ -42,12 +42,13 @@ Forecast generated for Oct–Dec 2017 for all store × item pairs.
 
 1. Clone repository
 git clone https://github.com/decocta/timeseriesforecasting.git
+
 cd timeseriesforecasting
 
-2. Install libraries
+3. Install libraries
    pip install -r requirements.txt
 
-3. Run the ipynb file
+4. Run the ipynb file
 
-4. Save Model
+5. Save Model
 models/xgb_store_item.json
