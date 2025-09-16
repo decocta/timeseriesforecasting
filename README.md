@@ -54,4 +54,4 @@ Forecast generated for Oct–Dec 2017 for all store × item pairs.
 
 6. Save Model
 
-models/xgb_store_item.json
+   models/xgb_store_item.json
