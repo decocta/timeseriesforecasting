@@ -31,6 +31,7 @@ Model trained on full train set up to 2017-09-30.
 Forecast generated for Oct–Dec 2017 for all store × item pairs.
 
 **Technologies Used**
+
 -Python 3.12
 -pandas, numpy
 -matplotlib, seaborn
@@ -38,6 +39,7 @@ Forecast generated for Oct–Dec 2017 for all store × item pairs.
 -xgboost
 
 **How to Run**
+
 1. Clone repository
 git clone https://github.com/decocta/timeseriesforecasting.git
 cd timeseriesforecasting
